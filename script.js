@@ -9,7 +9,7 @@ App.prototype.pageChange=function(changeTo) {
 
 
 App.prototype.q1=function() {
-    $('#list_qs').append('<li><a id="q1a">test 1a</a></li>');
+    $('#list_qs').append('<li><a id="q1a">testdd 1a</a></li>');
     $('#list_qs').append('<li><a id="q1b">test 1b</a></li>');
     $('#list_qs').append('<li><a id="q1c">test 1c</a></li>');
     $('#list_qs').append('<li><a id="q1d">test 1d</a></li>');
